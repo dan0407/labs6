@@ -21,6 +21,14 @@ body {
 	background-attachment: fixed; /* Agregado */
 	position: relative;
 }
+.list-songs {
+	display: flex;
+	flex-wrap: wrap;
+}
+
+.songs-app {
+	margin: 10px;
+}
 
 .app-container::before {
 	content: '';
