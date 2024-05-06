@@ -79,6 +79,7 @@ class AppContainer extends HTMLElement {
 					<div class="list-songs"></div>
 				</div>
       `;
+			// input imagen ctrl c ctrl v url imagen
 		}
 	}
 }
